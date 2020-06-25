@@ -6,7 +6,7 @@ The rules are: You are assigned a random word. You have 10 tries to guess the wo
 This project is composed of 3 JS files: index.js, letter.js, and word.js
 I used npm install to make sure I had inquirer and had the proper modules.
 I went ahead and worked on index.js first
-<img src"https://i.imgur.com/8TxEkjD.png" alt="" />
+<img src="https://i.imgur.com/8TxEkjD.png" alt="" />
 I came up with the 10 random words by googling "Random Word Generator" and generating 10 words at random.
 <img src="https://i.imgur.com/swoASMb.png" alt="" />
 <img src="https://i.imgur.com/E1Vgv15.png" alt="" />
