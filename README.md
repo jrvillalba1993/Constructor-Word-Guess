@@ -3,6 +3,7 @@
 The goal of this HW was to create a word guess game using Node, Javascript, and Inquirer.
 The rules are: You are assigned a random word. You have 10 tries to guess the world properly. You can only use lowercase letters that are A-Z.
 
+<b>Note</b>Besides images I also included a link to a Youtube video I made demonstrating the game
 This project is composed of 3 JS files: index.js, letter.js, and word.js
 I used npm install to make sure I had inquirer and had the proper modules.
 I went ahead and worked on index.js first
@@ -23,3 +24,5 @@ I then purposely guessed the wrong letter and it used up one of my 10 tries putt
 <img src="https://i.imgur.com/pYqu8fW.png" alt="" />
 I then went ahead and guessed the rest of the word. As you can see once I guessed it, it told me I won and went ahead and assigned a new word for me to guess
 <img src="https://i.imgur.com/IfXNiOy.png" alt="" />
+
+Youtube Video: https://youtu.be/VDvR2caJEH0
